@@ -1,5 +1,5 @@
 {
-  "name": "pdfmake",
+  "name": "@sachamarits/pdfmake",
   "version": "0.1.70",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "src/printer.js",
@@ -46,10 +46,7 @@
     "test": "gulp",
     "playground": "node dev-playground/server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/bpampuch/pdfmake.git"
-  },
+  "repository": "sachamarits/pdfmake",
   "keywords": [
     "pdf",
     "javascript",
